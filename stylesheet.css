@@ -1,0 +1,21 @@
+.title {
+  color: #02ccba;
+}
+.main ul {
+  color: #02ccba;
+}
+img.example1{
+  width: 300px;
+}
+.main{
+  background-image:url(https://i.iheart.com/v3/re/new_assets/5b969a5bfe6a54e3f8c19d5c);
+  background-size: cover;
+}
+.rogo{
+  float: left;
+}
+.kennsiro-{
+  display: inline-block;
+  color: blue;
+  font-size: 100px;
+  
